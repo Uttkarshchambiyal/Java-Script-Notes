@@ -33,7 +33,7 @@ const rollNo = 102;
 // it is a collection of primitive data types variable in which you can store  //
 const student = { // we are using const as using the array & the student is a object (collection of the variables)!
     fullName: "me", // we can assign any value in the array even the data type is const!
-    age: 20, // we can also assign the value by the// TODO: -student["age"] = student["age"] + 40; - this will replace the value by 20 to 40!
+    age: 20, // we can also assign the value by the// TODO: - student["age"] = student["age"] + 40; - this will replace the value by 20 to 40!
     cgpa: 5.0, // 
     ispass: true,
 }; // we have choice to use (;) its your own choice.
