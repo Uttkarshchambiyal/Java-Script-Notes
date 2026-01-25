@@ -3,11 +3,11 @@
 This repository contains my **self-made JavaScript code notes** created during my learning journey.
 
 All examples and explanations are written in **simple code form** to help with:
-- Concept clarity
-- Quick revision
-- Problem-solving practice
+--- Concept clarity
+--- Quick revision
+-- Problem-solving practice
 
----
+-
 
 ## 📚 What This Repository Covers
 
@@ -19,7 +19,7 @@ All examples and explanations are written in **simple code form** to help with:
 - Arrays and objects
 - Problem-solving practice
 
----
+-
 
 ## 🎯 Purpose of This Repository
 

@@ -6,7 +6,7 @@ let c = a + b;
 
 //!----------------------------------------operator in java-script-------------------------------------------//
 //todo---- there are many types of operators in js ----
-// uniray , assignment , comparison , logical , bitwise and many more !
+// unary , assignment , comparison , logical , bitwise and many more !
 
 
 console.log("a = ", a, "b = ", b) //*--- it can assign value of variable.
@@ -24,11 +24,11 @@ n = 5 + 1;
 console.log("n =", n); // value will be 6 -- 
 n++; //post
 //? ++n it is pre inc operator which means it will first change the value then will be used.
-//* it will inc the value by 1(one) beacuse a++ help to inc any value by 1*/
+//* it will inc the value by 1(one) because a++ help to inc any value by 1*/
 console.log("n =", n); // value will be 7 -- because we are using the post decrement operator which inc the value by 1'
 n--;
 //? --n it is pre dec operator which means it will first change the value then will be used. 
-//* it will dec the value by 1(one) beacuse a-- help to dec any value by 1*/
+//* it will dec the value by 1(one) because a-- help to dec any value by 1*/
 console.log("n =", n); // value will be 6 -- because we are using the post decrement operator which dec the value by 1'
 
 
@@ -61,7 +61,7 @@ if (age >= 18) {
     console.log(age, "can't vote");
 }
 
-//?------------------------------------------terninary-operator-------------------------------------------------\\
+//?-----------------------------------------ternary_operator-------------------------------------------------\\
 
 let possible = age >= 33 ? "no need to go bank they will come" : "you need to go bank";
 console.log(possible);
